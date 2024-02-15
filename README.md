@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Irfan Arif Widiatmoko</h1>
-<h3 align="left">Junior fullstack Software Dev from indonesia</h3>
+<h1 align="left">Hi, I'm Irfan Arif Widiatmoko</h1>
+<h3 align="left">Software Dev from Indonesia</h3>
 
 
 - 🌱 I’m currently learning **AWS Compute, Serverless, Supabase**
@@ -8,11 +8,11 @@
 
 - 🔭 I'm interested on mobile app, web app and server using react native, vue, react.js and express.js#
 
-- Currently project: open source projeck [Chat app](https://github.com/arifirfan06/XServer) n more open source project in [my repository](https://github.com/arifirfan06?tab=repositories)
+- Current project: project [Book and News Web Service](https://github.com/arifirfan06/XServer), the other projects in [my repository](https://github.com/arifirfan06?tab=repositories)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=css,html,sass,tailwindcss,bootstrap,javascript,react,vue,nuxt,nodejs,python,flask,mysql,postman,git,github&perline=10" alt="my skills" />
+  <img src="https://skillicons.dev/icons?i=css,html,sass,tailwindcss,bootstrap,javascript,react,vue,nuxt,next,aws,nodejs,python,mysql,firebase,vercel,postman,git,github&perline=10" alt="my skills" />
 </p>
 
 <div align="left">
