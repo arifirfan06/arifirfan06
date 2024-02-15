@@ -1,16 +1,50 @@
-### Hi there 👋
+<h1 align="left">Hi 👋, I'm Irfan Arif Widiatmoko</h1>
+<h3 align="left">Junior fullstack Software Dev from indonesia</h3>
 
-<!--
-**arifirfan06/arifirfan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **AWS Compute, Serverless, Supabase**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **arifirfan06@gmail.com**
+
+- 🔭 I'm interested on mobile app, web app and server using react native, vue, react.js and express.js#
+
+- Currently project: open source projeck [Chat app](https://github.com/arifirfan06/XServer) n more open source project in [my repository](https://github.com/arifirfan06?tab=repositories)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=css,html,sass,tailwindcss,bootstrap,javascript,react,vue,nuxt,nodejs,python,flask,mysql,postman,git,github&perline=10" alt="my skills" />
+</p>
+
+<div align="left">
+  <h3>Stats</h3>
+
+  <p>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=arifirfan06&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=arifirfan06&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arifirfan06&show_icons=true" />
+  </picture>
+  </p>
+  <p>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=arifirfan06&show_icons=true&theme=radical&hide_border=true"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=arifirfan06&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=arifirfan06&show_icons=true" />
+    </picture>
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arifirfan06&layout=compact&theme=radical&hide_border=true" alt="arifirfan06" />
+  </p>
+</div>
