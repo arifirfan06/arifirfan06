@@ -12,7 +12,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=css,html,sass,tailwindcss,bootstrap,javascript,react,vue,nuxt,next,aws,nodejs,python,mysql,firebase,vercel,postman,git,github&perline=10" alt="my skills" />
+  <img src="https://skillicons.dev/icons?i=css,html,sass,tailwindcss,bootstrap,javascript,ts,react,vue,nuxt,next,aws,nodejs,python,mysql,firebase,vercel,postman,git,github&perline=10" alt="my skills" />
 </p>
 
 <div align="left">
