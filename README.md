@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **arifirfan06@gmail.com**
 
-- 🔭 I'm interested on mobile app, web app and server using react native, vue, react.js and express.js#
+- 🔭 I'm interested on mobile app, web app and server using react native, vue, react.js and node.js#
 
 - Current project: project [Book and News Web Service](https://github.com/arifirfan06/XServer), the other projects in [my repository](https://github.com/arifirfan06?tab=repositories)
 
