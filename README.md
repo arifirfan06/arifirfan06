@@ -44,7 +44,4 @@
       <img src="https://github-readme-stats.vercel.app/api?username=arifirfan06&show_icons=true" />
     </picture>
   </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=arifirfan06&layout=compact&theme=radical&hide_border=true" alt="arifirfan06" />
-  </p>
 </div>
