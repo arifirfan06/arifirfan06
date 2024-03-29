@@ -31,7 +31,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arifirfan06&show_icons=true" />
   </picture>
   </p>
-  <p>
+<!--   <p>
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=arifirfan06&show_icons=true&theme=radical&hide_border=true"
@@ -43,5 +43,5 @@
       />
       <img src="https://github-readme-stats.vercel.app/api?username=arifirfan06&show_icons=true" />
     </picture>
-  </p>
+  </p> -->
 </div>
