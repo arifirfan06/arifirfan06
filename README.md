@@ -8,7 +8,7 @@
 
 - 🔭 I'm interested on mobile app, web app and server using react native, vue, react.js and node.js#
 
-- Current project: project [Book and News Web Service](https://github.com/arifirfan06/XServer), the other projects in [my repository](https://github.com/arifirfan06?tab=repositories)
+- Current project: project [Portofio UI & CMS Strapi](https://github.com/arifirfan06/portfolio-ui), the other projects in [my repository](https://github.com/arifirfan06?tab=repositories)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
