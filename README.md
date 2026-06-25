@@ -2,7 +2,7 @@
 <h3 align="left">Software Dev from Indonesia</h3>
 
 
-- 🌱 I’m currently learning **CI/CD, Docker and Angular**
+- 🌱 I’m currently learning **CI/CD, Docker and Golang**
 
 - 📫 How to reach me **arifirfan06@gmail.com**
 
