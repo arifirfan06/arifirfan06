@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Irfan Arif Widiatmoko</h1>
-<h3 align="left">Software Dev from Indonesia</h3>
+<h3 align="left">A Software Dev from Indonesia</h3>
 
 
 - 🌱 I’m currently learning **CI/CD, Docker and Golang**
