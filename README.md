@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=css,html,sass,tailwindcss,bootstrap,javascript,ts,react,vue,nuxt,next,aws,nodejs,python,mysql,firebase,vercel,postman,git&perline=10" alt="my skills" />
 </p>
 
-<div align="left">
+<!-- <div align="left">
   <h3>Stats</h3>
 
   <p>
@@ -31,7 +31,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arifirfan06&show_icons=true" />
   </picture>
   </p>
-<!--   <p>
+   <p>
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=arifirfan06&show_icons=true&theme=radical&hide_border=true"
